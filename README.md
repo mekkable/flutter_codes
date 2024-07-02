@@ -1,0 +1,5 @@
+# flutter_codes
+このレポジトリは、業務で扱ったFlutterのコードを掲載することで、Githubをご覧いただいた皆様に私がどのようなコードを書いているのかを知ってもらうために作りました。
+# directory構成について
+基本的にはmobileの中に各UI表示部分やアプリケーション層、design_systemの中にはUIコンポーネントを格納するcomponentsと、テスト用のwidgetbookを用意しています.  
+依存の方向はmobile->design_systemです。
